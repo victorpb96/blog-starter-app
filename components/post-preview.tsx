@@ -10,6 +10,7 @@ type Props = {
   date: string
   excerpt: string
   author: Author
+  name: string
   slug: string
 }
 

@@ -1,19 +1,25 @@
 ---
-title: 'Dynamic Routing and Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/dynamic-routing/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
-author:
-  name: JJ Kasper
-  picture: '/assets/blog/authors/jj.jpeg'
+title: 'To be written'
+excerpt: 'We use our freedom of will to reach out into new areas of thought, as not all knowledge comes from books, we can philosophise about our world and the world around us, and we can change the way we think by starting inside the mind and developing mental strength to change our pain and suffering into happiness.'
+coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+date: "2024-01-14T05:35:07.322Z"
+author: "Victor Pinacue-Bibby"
+name: "Victor Pinacue-Bibby"
+picture: "/assets/blog/authors/black-triangle.png"
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover.jpg'
+url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+What I’ve learnt going through life is that there are defining moments in life, a path that heads in one direction, and another in the opposite direction, we all have to learn to make decisions crucial to whether we reach success or failure. We have to train our minds to tackle these opportunities, which comes with time we learn through experience and this comes through ways of reading, meeting people and learning how people work, no two people are the same, and as you explore the world you soon realise how society is divided up against the rich and the poor, but not everyone has to be broke forever, reading will train the mind to tackle situations as you’ve never before, but this takes time and effort to do.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+We use our freedom of will to reach out into new areas of thought, as not all knowledge comes from books, we can philosophise about our world and the world around us, and we can change the way we think by starting inside the mind and developing mental strength to change our pain and suffering into happiness. We can achieve things we never thought we could before, but you have to visualise whatever it is you want in life first to come true, as thoughts manifest which turn into your reality.
 
-## Lorem Ipsum
+Your mind body and soul work together in harmony, so it’s important to work on all three, the soul and the mind are specially linked together, the soul absorbs information that passes through the eyes of a person, and the mind is where we use our cognition to process this information and rationalise this information, at the same time your soul uses this information on its journey through this lifetime to help you make better decisions.
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+
+
+
+
+
+
+

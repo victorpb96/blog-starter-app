@@ -1,19 +1,18 @@
 ---
-title: 'Preview Mode for Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/preview/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
-author:
-  name: Joe Haddad
-  picture: '/assets/blog/authors/joe.jpeg'
+title: 'Two Choices'
+excerpt: 'Choices play a key role in a person's ability to think with clarity, which is also built upon mental strength and resilience, we have to learn to make quick decisions at times that can impact how the rest of our lives will flow and develop as we make it onto the later part of our lives.'
+coverImage: "/assets/blog/preview/cover.jpg"
+date: "2024-01-16T05:35:07.322Z"
+author: "Victor Pinacue-Bibby"
+name: "Victor Pinacue-Bibby"
+picture: "/assets/blog/authors/black-triangle.png"
 ogImage:
-  url: '/assets/blog/preview/cover.jpg'
+url: '#'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+True sanity comes from one person's ability to move in a clear direction in life, whether that be in a positive light or a dark direction, we shouldn’t jump from being good to bad and vice versa, we have to choose what sort of person we want to become and how we will live and experience this life. Choices play a key role in a person's ability to think with clarity, which is also built upon mental strength and resilience, we have to learn to make quick decisions at times that can impact how the rest of our lives will flow and develop as we make it onto the later part of our lives.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+A Large portion of the population walk through life not being totally awake, they go to their jobs and commit to the daily grind so they can afford the things in life they want, deriving happiness from the act of spending which in reality is an illusion to being happy, we actually have the ability to allow happiness to come from within, we can train our minds to be happy, but it takes time and discipline to achieve this, as you evolve you realise there are free things you can do in life that’ll bring happiness to your lives.
 
-## Lorem Ipsum
+Greed creates even larger gaps between the rich and the poor, as the rich suck up all the resources in order to fulfill their thirst for the best of everything and more, when in reality there’s enough resources on Earth for everyone to live a healthy life, but the system is becoming broken and won’t change anytime soon unless people acknowledge this and do something to change how wealth is distributed amongst people.
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
